@@ -1,0 +1,61 @@
+<mxfile host="app.diagrams.net" modified="2024-01-08T07:33:46.625Z" agent="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="yQsLCVOk93wvTTXkNRUe" version="21.5.0" type="github">
+  <diagram name="Page-1" id="Rusrr6zuCGDwe_C_hCff">
+    <mxGraphModel dx="2252" dy="904" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="HsGGnYPclQMHITFBZiif-16" value="FileMaker Modules" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-270" y="70" width="210" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-5" value="fmIDE" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="40" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-6" value="fmScriptWorkspace" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-7" value="fmPSBN" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="160" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-17" value="fmSort" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="220" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-28" value="fmIDE Go to Thing&lt;br&gt;for CrossCheck" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="280" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-29" value="fmIDE Go to Thing&lt;br&gt;for BaseElements" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-16">
+          <mxGeometry x="10" y="340" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-18" value="FileMaker UI Extensions" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-40" y="70" width="210" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-4" value="fmAutoMate&lt;br&gt;fmAutomate-Services" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-18">
+          <mxGeometry x="10" y="40" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-19" value="fmSyntaxColorizer" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-18">
+          <mxGeometry x="10" y="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-20" value="FileMaker Tools" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="190" y="70" width="210" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-21" value="fmLaunchPad" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-20">
+          <mxGeometry x="10" y="160" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-22" value="…" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-20">
+          <mxGeometry x="10" y="220" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-1" value="fmWorkMate" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-20">
+          <mxGeometry x="10" y="40" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-3" value="fmWorkMate Win Archive" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-20">
+          <mxGeometry x="10" y="100" width="190" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-23" value="FileMaker Tools Extensions" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="70" width="210" height="290" as="geometry" />
+        </mxCell>
+        <mxCell id="HsGGnYPclQMHITFBZiif-26" value="fmCheckMate-XSLT library" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="HsGGnYPclQMHITFBZiif-23">
+          <mxGeometry x="10" y="40" width="190" height="50" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
